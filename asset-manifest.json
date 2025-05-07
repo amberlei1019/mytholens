@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/mytholens/static/css/main.f855e6bc.css",
-    "main.js": "/mytholens/static/js/main.9c130e5b.js",
+    "main.js": "/mytholens/static/js/main.4d27b382.js",
     "static/js/453.ed18e7f2.chunk.js": "/mytholens/static/js/453.ed18e7f2.chunk.js",
-    "static/media/Apollo.png": "/mytholens/static/media/Apollo.ff208bb5155446b3e4aa.png",
-    "static/media/Ares.png": "/mytholens/static/media/Ares.ff208bb5155446b3e4aa.png",
-    "static/media/Artemis.png": "/mytholens/static/media/Artemis.ff208bb5155446b3e4aa.png",
-    "static/media/Demeter.png": "/mytholens/static/media/Demeter.ff208bb5155446b3e4aa.png",
-    "static/media/Hephaestus.png": "/mytholens/static/media/Hephaestus.ff208bb5155446b3e4aa.png",
-    "static/media/Hermes.png": "/mytholens/static/media/Hermes.ff208bb5155446b3e4aa.png",
-    "static/media/Hestia.png": "/mytholens/static/media/Hestia.ff208bb5155446b3e4aa.png",
-    "static/media/Poseidon.png": "/mytholens/static/media/Poseidon.ff208bb5155446b3e4aa.png",
+    "static/media/Poseidon.png": "/mytholens/static/media/Poseidon.79b377c64d7db32d7887.png",
     "static/media/Zeus.png": "/mytholens/static/media/Zeus.ff208bb5155446b3e4aa.png",
+    "static/media/Demeter.png": "/mytholens/static/media/Demeter.e9a4eedf95ec1bc035cb.png",
     "static/media/Athena.png": "/mytholens/static/media/Athena.ca413f997712976f89c5.png",
+    "static/media/Hephaestus.png": "/mytholens/static/media/Hephaestus.cd2e9c3da2679b06e230.png",
+    "static/media/Hermes.png": "/mytholens/static/media/Hermes.d643bd12caa35e80b2c8.png",
+    "static/media/Ares.png": "/mytholens/static/media/Ares.6ff492f6ade43782ec07.png",
+    "static/media/Hestia.png": "/mytholens/static/media/Hestia.e6d539ca022464cd16a3.png",
+    "static/media/Artemis.png": "/mytholens/static/media/Artemis.9d1e976b8c42afef25e4.png",
     "static/media/Hera.png": "/mytholens/static/media/Hera.161d010547c50a6c5c6d.png",
+    "static/media/Apollo.png": "/mytholens/static/media/Apollo.7ddc9d4697d32f489db9.png",
     "static/media/Aphrodite.png": "/mytholens/static/media/Aphrodite.a70aa4e7ba5020802035.png",
+    "static/media/Hades.png": "/mytholens/static/media/Hades.fd129fbc4b2ff4e41995.png",
+    "static/media/Dionysus.png": "/mytholens/static/media/Dionysus.9526bb14ff3a7387e0d7.png",
     "index.html": "/mytholens/index.html",
     "main.f855e6bc.css.map": "/mytholens/static/css/main.f855e6bc.css.map",
-    "main.9c130e5b.js.map": "/mytholens/static/js/main.9c130e5b.js.map",
+    "main.4d27b382.js.map": "/mytholens/static/js/main.4d27b382.js.map",
     "453.ed18e7f2.chunk.js.map": "/mytholens/static/js/453.ed18e7f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9c130e5b.js"
+    "static/js/main.4d27b382.js"
   ]
 }
