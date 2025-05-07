@@ -2,7 +2,7 @@
   "name": "mytholens",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elara888.github.io/mytholens",
+  "homepage": "https://amberlei1019.github.io/mytholens",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r git@github.com:amberlei1019/mytholens.git"
   },
   "eslintConfig": {
     "extends": [

@@ -14,6 +14,8 @@ import aphroditeImage from '../assets/images/Aphrodite.png';
 import hephaestusImage from '../assets/images/Hephaestus.png';
 import hermesImage from '../assets/images/Hermes.png';
 import hestiaImage from '../assets/images/Hestia.png';
+import hadesImage from '../assets/images/Hades.png';
+import dionysusImage from '../assets/images/Dionysus.png';
 
 // 神明图片映射
 const godImages = {
@@ -28,7 +30,9 @@ const godImages = {
   Aphrodite: aphroditeImage,
   Hephaestus: hephaestusImage,
   Hermes: hermesImage,
-  Hestia: hestiaImage
+  Hestia: hestiaImage,
+  Hades: hadesImage,
+  Dionysus: dionysusImage
 };
 
 // 神明描述数据
